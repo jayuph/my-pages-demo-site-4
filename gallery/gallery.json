@@ -13,6 +13,13 @@
       "assetPath": "./media/loop-2.gif",
       "contentType": "image/gif",
       "createdAt": "2026-05-03T02:46:38.262Z"
+    },
+    {
+      "id": "loop-gif-3",
+      "title": "Loop GIF 3",
+      "assetPath": "./media/loop-3.gif",
+      "contentType": "image/gif",
+      "createdAt": "2026-05-03T02:51:11.609Z"
     }
   ]
 }
